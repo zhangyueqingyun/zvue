@@ -20,12 +20,12 @@
   },
   "homepage": "https://github.com/zhangyueqingyun/zvue#readme",
   "dependencies": {
-    "chalk": "^5.2.0",
+    "chalk": "^4.0.0",
     "commander": "^10.0.0",
     "download-git-repo": "^3.0.2",
     "handlebars": "^4.7.7",
-    "inquirer": "^9.1.4",
+    "inquirer": "^8.1.4",
     "log-symbols": "^5.1.0",
-    "ora": "^6.1.2"
+    "ora": "^5.1.2"
   }
 }
